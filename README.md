@@ -1,4 +1,8 @@
-# Lesson to refactor CSS to SCSS
+# Annamaria sass project
+
+Due Friday.
+
+## Lesson to refactor CSS to SCSS
 
 A template to use in learning Sass. See the [ICJ class](https://github.com/utdata/icj-class#sass) for more info.
 
